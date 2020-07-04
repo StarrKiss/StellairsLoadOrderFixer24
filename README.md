@@ -1,4 +1,4 @@
-# StellairsLoadOrderFixer24
+# StellarisLoadOrderFixer24
 Sort Stellaris mods in *reverse* alphabetical order because 2.4's mod load order is different from 2.3.3
 The mods at the bottom will override the mods on the top.
 
